@@ -1,5 +1,5 @@
 # HTML5-poker-source-code
-Download the HTML5 Poker Source Code from the pokerscript git repository. The source code is open-source, allowing you to edit and scale it as needed, and it also includes recent updates.
+Download HTML5 Poker Source Code from the pokerscript git repository. The source code is open-source, allowing you to edit and scale it as needed, and it also includes recent updates.
 
 The [HTML5 Poker Source Code](https://www.pokerscript.net/HTML5-poker-source-code.html) is available for download from the pokerscript git repository, offering an open-source solution for creating and customizing your own poker game. This source code is editable, allowing developers to modify and enhance the game according to their specific requirements. With its scalability, the code can be adapted to suit different platforms and screen sizes, ensuring a seamless user experience across devices.
 
